@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TahaffuzOOP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TahaffuzOOP.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
